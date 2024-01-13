@@ -1,5 +1,5 @@
 cap=cv2.VideoCapture(0)
-
+print("Its me aadarsh")
 
 
 if not cap.isOpened():
